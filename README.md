@@ -24,3 +24,6 @@ A list of awesome tools or resources (mainly for programming)
 
 #### Design Patterns
 - **[domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)** - Sample code for several design patterns in PHP
+
+#### Architecture and Design
+- **[Architecture and Design](https://github.com/phptodayorg/php-must-watch#architecture-and-design)** (in php)
