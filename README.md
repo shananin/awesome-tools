@@ -16,6 +16,9 @@ A list of awesome tools or resources (mainly for programming)
 
 
 ## Resources ##
+#### Golang
+- **[gobyexample.com](https://gobyexample.com/)** - Go by Example is a hands-on introduction to Go using annotated example programs
+
 #### Refactoring
 - **[refactoring.guru](https://refactoring.guru)** - Interactive Course
 - **[Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)** by Robert C. Martin
