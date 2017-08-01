@@ -17,6 +17,16 @@ A list of awesome tools or resources (mainly for programming)
 
 ## Golang ##
 
+## Monitoring ##
+- **[Sentry](https://sentry.io/welcome/)** - Stop hoping your users will report errors
+- **[ELK](https://www.elastic.co/products)** - elacticsearch + logstash + kibana
+- **[Graylog](https://www.graylog.org)** - Trusted full-featured log management
+- **[Graphite](http://graphiteapp.org)** - stores time-series data and displays them in graphs through a Django web application
+- **[Prometheus](https://prometheus.io)** - Power your metrics and alerting with a leading
+open-source monitoring solution
+- **[Grafana](https://grafana.com)** - The open platform for beautiful 
+analytics and monitoring
+
 ## Infractracture ##
 #### Docker ####
 - **[Watchtower](https://github.com/v2tec/watchtower)** - Automatically update running Docker containers
