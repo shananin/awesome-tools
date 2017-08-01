@@ -24,7 +24,7 @@ A list of awesome tools or resources (mainly for programming)
 - **[Rocker](https://github.com/grammarly/rocker)** - Rocker breaks the limits of Dockerfile. It adds some crucial features that are missing while keeping Docker’s original design and idea.
 - `docker system prune` - remove old images
 
-fdf- **[locust.io](http://locust.io/)** - an open source load testing tool (define user behaviour with Python code)
+- **[locust.io](http://locust.io/)** - an open source load testing tool (define user behaviour with Python code)
 
 
 ## Resources ##
