@@ -5,6 +5,7 @@ A list of awesome tools or resources (mainly for programming)
 #### Web ####
 - **[Bootstrap 4](https://v4-alpha.getbootstrap.com)**
 - **[Materializecss](http://materializecss.com)** - material design framework
+- **[BEM Receipts](https://anadea.info/ru/blog/bem-methodology)**
 
 ### Email ###
 - **[MJML](https://mjml.io)** - framework that makes responsive email easy
