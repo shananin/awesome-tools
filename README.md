@@ -10,6 +10,8 @@ A list of awesome tools or resources (mainly for programming)
   - **[BEM Example](https://habrahabr.ru/post/203440/)**
   
 ## JS ##
+#### ES6 ####
+- **[Промисы в ES6: паттерны и анти-паттерны](https://habrahabr.ru/company/ruvds/blog/339414/)**
 #### React ####
 - **[Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)**
 - **[The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)**
