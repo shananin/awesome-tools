@@ -12,6 +12,7 @@ A list of awesome tools or resources (mainly for programming)
 ## JS ##
 #### ES6 ####
 - **[Промисы в ES6: паттерны и анти-паттерны](https://habrahabr.ru/company/ruvds/blog/339414/)**
+- **[6 Reasons Why JavaScript’s Async/Await Blows Promises Away (Tutorial)](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)**
 #### React ####
 - **[Best Practices for Writing React Components](https://engineering.musefind.com/our-best-practices-for-writing-react-components-dec3eb5c3fc8)**
 - **[The 100% correct way to structure a React app (or why there’s no such thing)](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)**
