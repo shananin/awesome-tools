@@ -53,6 +53,7 @@ analytics and monitoring
 
 ## Testing ##
 - **[locust.io](http://locust.io/)** - an open source load testing tool (define user behaviour with Python code)
+- **[taurus](https://gettaurus.org)** - Taurus improves experience of JMeter, Selenium and others
 
 
 ## Resources ##
