@@ -86,4 +86,6 @@ analytics and monitoring
 #### ML ####
 - [the-50-best-free-datasets-for-machine-learning](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
 - [Coursera - Yandex course of ML](https://www.coursera.org/learn/mathematics-and-python) - the best online course
+- [https://habr.com/company/ods/blog/344044/](https://habr.com/company/ods/blog/344044/) - Материалы открытого курса OpenDataScience и Mail.Ru Group по машинному обучению
+
 
