@@ -24,6 +24,7 @@ A list of awesome tools or resources (mainly for programming)
 - **[MJML](https://mjml.io)** - framework that makes responsive email easy
 
 ## Python ##
+- [nameko microservices](https://www.toptal.com/python/introduction-python-microservices-nameko)
 
 
 ## PHP ##
@@ -79,3 +80,10 @@ analytics and monitoring
 
 #### Architecture and Design ####
 - **[Architecture and Design](https://github.com/phptodayorg/php-must-watch#architecture-and-design)** (in php)
+- []() 
+
+
+#### ML ####
+- (the-50-best-free-datasets-for-machine-learning)[https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/]
+- (Coursera - Yandex course of ML)[https://www.coursera.org/learn/mathematics-and-python] - the best online course
+
