@@ -80,10 +80,10 @@ analytics and monitoring
 
 #### Architecture and Design ####
 - **[Architecture and Design](https://github.com/phptodayorg/php-must-watch#architecture-and-design)** (in php)
-- []() 
+- [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
 
 
 #### ML ####
-- (the-50-best-free-datasets-for-machine-learning)[https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/]
-- (Coursera - Yandex course of ML)[https://www.coursera.org/learn/mathematics-and-python] - the best online course
+- [the-50-best-free-datasets-for-machine-learning](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
+- [Coursera - Yandex course of ML](https://www.coursera.org/learn/mathematics-and-python) - the best online course
 
