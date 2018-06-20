@@ -71,6 +71,11 @@ analytics and monitoring
 
 #### Design Patterns ####
 - **[domnikl/DesignPatternsPHP](https://github.com/domnikl/DesignPatternsPHP)** - Sample code for several design patterns in PHP
+- [https://github.com/kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - in PHP
+- [https://refactoring.guru/](https://refactoring.guru/) - best resource
+- [https://github.com/fbeline/Design-Patterns-JS](https://github.com/fbeline/Design-Patterns-JS) - in JS
+- [https://github.com/faif/python-patterns](https://github.com/faif/python-patterns) - in Python
+- [Head-First-Design-Patterns-Brain-Friendly](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124) - best book
 
 #### Architecture and Design ####
 - **[Architecture and Design](https://github.com/phptodayorg/php-must-watch#architecture-and-design)** (in php)
